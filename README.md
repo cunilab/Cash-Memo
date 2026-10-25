@@ -2,7 +2,7 @@
 
 **Your private money journal.** Jot down money in and out in any currency, say what paid for it, and see where each month went at a glance. There are no bank connections, no ads and no data selling.
 
-Live: **https://cashmemo.andresholivin.dev**
+Live: **https://cashmemo.andresholivin.tech**
 
 - [Features](#features)
 - [Tech stack](#tech-stack)
